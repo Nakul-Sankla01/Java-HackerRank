@@ -1,3 +1,4 @@
+/*
 The Java instanceof operator is used to test if the object or instance is an instanceof the specified type.
 
 In this problem we have given you three classes in the editor:
@@ -22,9 +23,9 @@ Hacker
 Sample Output
 
 3 1 1
+*/
 
-
-Solution :
+//Solution :
 import java.util.*;
 
 
